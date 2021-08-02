@@ -53,7 +53,6 @@ int main() {
 	imwrite("./g.png", mapg);
 	imwrite("./b.png", mapb);
 
-
 	waitKey(0);
 	return 0;
 }
